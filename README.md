@@ -1,10 +1,14 @@
 # Backend-Architecture
 A sinlge point of reference to start learning about backend.
 
+If you are trying to dive into the world of backend-architecture and are overwhelmed with the information out there, here is concise and currated list for you to start. If you find it helpful, don't forget to star and share it.
+
 ## Index
 - [Basic Information as you start](#basic-information-as-you-start)
+- [Microservice Architecture](#microservice-architecture)
 - [Monolith vs Microservice](#monolith-vs-microservice)
 - [Scalable Infrastucture](#scalable-infrastructure)
+- [Engineering Blogs of Tech Companies](#engineering-blogs-of-tech-companies)
 - [Miscellaneous](#miscellaneous)
 - [Dedicated Websites](#dedicated-websites)
 
@@ -18,8 +22,18 @@ A sinlge point of reference to start learning about backend.
     - A basic overview on backend developer
 4. [Introduction to Monolith Architecture and Microservices Architecture](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63)
     - An overview on two most popular architecture
-    
-    
+5. [CAP Theorem](https://blog.andyet.com/2014/10/01/right-database/)
+    - Introduction to CAP theorem and its trade-offs
+6. [SQL vs NoSQL](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
+    - Detailed article on both the database systems 
+7. [ACID vs BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
+    - Basics of both consistency models
+
+## Microservice Architecture
+
+1. [Dedicated website with detailed content](https://martinfowler.com/microservices/)
+2. 
+
 ## Monolith vs Microservice
 
 1. [Should you always start with Monolith?](https://buttercms.com/books/microservices-for-startups/should-you-always-start-with-a-monolith)
@@ -36,9 +50,20 @@ A sinlge point of reference to start learning about backend.
 
 1. [Designing scalable backend infrastructures from scratch](https://medium.com/@helloansh/designing-scalable-backend-infrastructures-from-scratch-af80f5767ccc)
 
+## Engineering Blogs of Tech Companies
+
+1. [Facebook Engineering Blog](https://engineering.fb.com/web/welcome-to-the-facebook-engineering-blog/)
+2. [Uber Engineering Blog](https://eng.uber.com/)
+3. [Netflix Tech Blog](https://medium.com/netflix-techblog)
+4. [Paypal Engineering](https://medium.com/paypal-engineering)
+5. [Pinterest Engineering](https://medium.com/pinterest-engineering)
+6. [Hotstar](https://blog.hotstar.com/tagged/engineering)
+7. [Swiggy Engineering Blog](https://blog.hotstar.com/tagged/engineering)
+
 ## Miscellaneous
 
 1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
+2. [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
 
 ## Dedicated Websites
 
