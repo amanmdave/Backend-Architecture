@@ -22,17 +22,20 @@ If you are trying to dive into the world of backend-architecture and are overwhe
     - A basic overview on backend developer
 4. [Introduction to Monolith Architecture and Microservices Architecture](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63)
     - An overview on two most popular architecture
-5. [CAP Theorem](https://blog.andyet.com/2014/10/01/right-database/)
+5. [What is Continuous Integration/Continuous Delivery](https://dzone.com/articles/what-is-cicd)
+    - The fundamental cornerstones of any DevOps
+6. [CAP Theorem](https://blog.andyet.com/2014/10/01/right-database/)
     - Introduction to CAP theorem and its trade-offs
-6. [SQL vs NoSQL](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
+7. [SQL vs NoSQL](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
     - Detailed article on both the database systems 
-7. [ACID vs BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
+8. [ACID vs BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
     - Basics of both consistency models
 
 ## Microservice Architecture
 
 1. [Dedicated website with detailed content](https://martinfowler.com/microservices/)
-2. 
+2. [Large collection of articles related to Microservices](https://dzone.com/microservices-news-tutorials-tools)
+3. [Microservices in Practice: Architecture to Deployment](https://dzone.com/articles/microservices-in-practice-1)
 
 ## Monolith vs Microservice
 
@@ -64,6 +67,7 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 
 1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 2. [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
+3. [Collection of CI/CD Tutorials](https://dzone.com/articles/the-complete-cicd-collection-tutorials)
 
 ## Dedicated Websites
 
