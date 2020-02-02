@@ -9,6 +9,7 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 - [Monolith vs Microservice](#monolith-vs-microservice)
 - [Scalable Infrastucture](#scalable-infrastructure)
 - [Engineering Blogs of Tech Companies](#engineering-blogs-of-tech-companies)
+- [Interesting Articles](#interesting-articles)
 - [Miscellaneous](#miscellaneous)
 - [Dedicated Websites](#dedicated-websites)
 
@@ -62,6 +63,10 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 5. [Pinterest Engineering](https://medium.com/pinterest-engineering)
 6. [Hotstar](https://blog.hotstar.com/tagged/engineering)
 7. [Swiggy Engineering Blog](https://blog.hotstar.com/tagged/engineering)
+
+## Interesting Articles
+
+1. [7 years of youtube scalability lessons in 30 minutes](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
 
 ## Miscellaneous
 
