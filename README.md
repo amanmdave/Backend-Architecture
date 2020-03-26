@@ -12,6 +12,7 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 - [Interesting Articles](#interesting-articles)
 - [Miscellaneous](#miscellaneous)
 - [Dedicated Websites](#dedicated-websites)
+- [MOOCs](#moocs)
 
 ## Basic Information as you start
 
@@ -82,6 +83,11 @@ If you are trying to dive into the world of backend-architecture and are overwhe
     - A collection of blogs that give detailed use cases of Microservice architecture
 3. [Microservice Architecture](https://microservices.io/index.html)
     - A detailed list of articles explaining Microservice achitecture with detailed infographics
+
+## MOOCs
+
+1. [CS 436: Distributed Computers](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
+    - Classroom lecture videos for CS 436, Recorded Winter 2012, University of Waterloo, Instructor: S. Keshav.
 
 <hr/>
 
