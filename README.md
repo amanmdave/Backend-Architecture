@@ -1,5 +1,5 @@
 # Backend-Architecture
-A sinlge point of reference to start learning about backend.
+A single point of reference to start learning about backend.
 
 If you are trying to dive into the world of backend-architecture and are overwhelmed with the information out there, here is concise and currated list for you to start. If you find it helpful, don't forget to star and share it.
 
