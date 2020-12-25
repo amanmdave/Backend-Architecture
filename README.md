@@ -94,9 +94,12 @@ If you are trying to dive into the world of backend-architecture and are overwhe
     
 ## Great Projects to Learn from 
 
-1. [Event Sourcing and CQRS]
+1. Event Sourcing and CQRS
     - (https://github.com/cer/event-sourcing-examples)
     - (https://github.com/eventuate-tram/eventuate-tram-examples-java-spring-todo-list)
+
+2. [Microservices Demo on Google Cloud Platform](https://github.com/GoogleCloudPlatform/microservices-demo)
+
  
 <hr/>
 
