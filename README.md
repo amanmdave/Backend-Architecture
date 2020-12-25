@@ -49,7 +49,10 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 
 4. [Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project](https://yellow.systems/blog/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project)
 
+## Communication Protocols in Microservices in Ballerina 
 
+1. [Grpc](https://github.com/ballerina-guides/grpc-service)
+2. [RestFul](https://github.com/ballerina-guides/restful-service)
 
 ## Scalable Infrastructure
 
