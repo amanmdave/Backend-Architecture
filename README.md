@@ -71,6 +71,13 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 ## Interesting Articles
 
 1. [7 years of youtube scalability lessons in 30 minutes](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
+2. Apache Kafka for Large Scale Applications
+   - (https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/streaming-logging-pipeline-of-home-timeline-prediction-system.html)
+   - (https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time.html)
+   - (https://www.confluent.io/blog/how-kafka-is-used-by-netflix/)
+   - (https://medium.com/@NetflixTechBlog/inca-message-tracing-and-loss-detection-for-streaming-data-netflix-de4836fc38c9)
+   - (https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
+   - (https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
 
 ## Miscellaneous
 
