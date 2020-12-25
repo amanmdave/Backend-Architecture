@@ -91,7 +91,13 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 
 1. [CS 436: Distributed Computers](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
     - Classroom lecture videos for CS 436, Recorded Winter 2012, University of Waterloo, Instructor: S. Keshav.
+    
+## Great Projects to Learn from 
 
+1. [Event Sourcing and CQRS]
+    - (https://github.com/cer/event-sourcing-examples)
+    - (https://github.com/eventuate-tram/eventuate-tram-examples-java-spring-todo-list)
+ 
 <hr/>
 
 As I embark on the journey to understand the world of servers, database, or infrastrucutre in general, I thought it would be a good Idea to make a list of blogs/resources that helped me along the way. 
