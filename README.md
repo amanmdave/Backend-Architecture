@@ -49,7 +49,10 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 
 4. [Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project](https://yellow.systems/blog/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project)
 
+## Communication Protocols in Microservices in Ballerina 
 
+1. [Grpc](https://github.com/ballerina-guides/grpc-service)
+2. [RestFul](https://github.com/ballerina-guides/restful-service)
 
 ## Scalable Infrastructure
 
@@ -68,6 +71,13 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 ## Interesting Articles
 
 1. [7 years of youtube scalability lessons in 30 minutes](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
+2. Apache Kafka for Large Scale Applications
+   - (https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/streaming-logging-pipeline-of-home-timeline-prediction-system.html)
+   - (https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time.html)
+   - (https://www.confluent.io/blog/how-kafka-is-used-by-netflix/)
+   - (https://medium.com/@NetflixTechBlog/inca-message-tracing-and-loss-detection-for-streaming-data-netflix-de4836fc38c9)
+   - (https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
+   - (https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
 
 ## Miscellaneous
 
@@ -88,7 +98,16 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 
 1. [CS 436: Distributed Computers](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
     - Classroom lecture videos for CS 436, Recorded Winter 2012, University of Waterloo, Instructor: S. Keshav.
+    
+## Great Projects to Learn from 
 
+1. Event Sourcing and CQRS
+    - (https://github.com/cer/event-sourcing-examples)
+    - (https://github.com/eventuate-tram/eventuate-tram-examples-java-spring-todo-list)
+
+2. [Microservices Demo on Google Cloud Platform](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+ 
 <hr/>
 
 As I embark on the journey to understand the world of servers, database, or infrastrucutre in general, I thought it would be a good Idea to make a list of blogs/resources that helped me along the way. 
