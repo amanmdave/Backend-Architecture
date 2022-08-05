@@ -67,6 +67,7 @@ If you are trying to dive into the world of backend-architecture and are overwhe
 5. [Pinterest Engineering](https://medium.com/pinterest-engineering)
 6. [Hotstar](https://blog.hotstar.com/tagged/engineering)
 7. [Swiggy Engineering Blog](https://blog.hotstar.com/tagged/engineering)
+8. [DoorDash Engineering Blog](https://doordash.engineering/blog]
 
 ## Interesting Articles
 
@@ -78,6 +79,7 @@ If you are trying to dive into the world of backend-architecture and are overwhe
    - (https://medium.com/@NetflixTechBlog/inca-message-tracing-and-loss-detection-for-streaming-data-netflix-de4836fc38c9)
    - (https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
    - (https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
+   - (https://doordash.engineering/2022/08/02/building-scalable-real-time-event-processing-with-kafka-and-flink/)
 
 ## Miscellaneous
 
